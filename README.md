@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/ryfcx2/ryfcx2/main/assets/header-light.svg?v=4" alt="Hi, I'm Ryan" width="340">
 </picture>
 
-<sub>🎓 school account</sub>
+<sub>🎓 <b>This is my school account</b> — see my main profile <a href="https://github.com/ryfcx">@ryfcx</a></sub>
 
 <br><br>
 
@@ -26,7 +26,7 @@
 <br><br>
 
 <a href="https://x.com/rygup"><img src="https://img.shields.io/twitter/follow/rygup.svg?style=social" alt="Twitter Follow" /></a>
-<a href="https://github.com/ryfcx2"><img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/ryfcx"><img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=ryfcx2&label=Profile%20Views&color=181818&style=flat-square" alt="Profile Views" />
 
 <br><br>
