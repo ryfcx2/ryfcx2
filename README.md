@@ -3,12 +3,11 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-dark.svg?v=4">
-  <img src="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-light.svg?v=4" alt="Hi, I'm Ryan" width="340">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryfcx2/ryfcx2/main/assets/header-dark.svg?v=4">
+  <img src="https://raw.githubusercontent.com/ryfcx2/ryfcx2/main/assets/header-light.svg?v=4" alt="Hi, I'm Ryan" width="340">
 </picture>
 
-<br><br>
-<h2>This is my alt account for school, so this page looks similar to my main account</h2>
+<sub>🎓 school account</sub>
 
 <br><br>
 
@@ -27,14 +26,14 @@
 <br><br>
 
 <a href="https://x.com/rygup"><img src="https://img.shields.io/twitter/follow/rygup.svg?style=social" alt="Twitter Follow" /></a>
-<a href="https://github.com/ryfcx"><img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=ryfcx&label=Profile%20Views&color=181818&style=flat-square" alt="Profile Views" />
+<a href="https://github.com/ryfcx2"><img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=ryfcx2&label=Profile%20Views&color=181818&style=flat-square" alt="Profile Views" />
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryfcx/ryfcx/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/ryfcx/ryfcx/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryfcx2/ryfcx2/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ryfcx2/ryfcx2/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
 </picture>
 
 <br><br>
