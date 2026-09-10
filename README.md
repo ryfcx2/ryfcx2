@@ -4,8 +4,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-dark.svg?v=4">
-  <img src="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-light.svg?v=4" alt="Hi, I'm Ryan, this is my other account for school" width="340">
+  <img src="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-light.svg?v=4" alt="Hi, I'm Ryan" width="340">
 </picture>
+
+<br><br>
+<h2>This is my alt account for school, so this page looks similar to my main account</h2>
 
 <br><br>
 
